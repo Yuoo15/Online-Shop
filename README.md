@@ -33,7 +33,7 @@
    ```
 
 Сайт будет доступен по адресу:  
-`https://ВАШ_ЮЗЕРНЕЙМ.github.io/Online-Shop/`
+`[https://yuoo15.github.io/Online-Shop/](https://yuoo15.github.io/Online-Shop/)`
 
 ## 🛠️ Стек
 
